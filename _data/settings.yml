@@ -4,11 +4,10 @@ keywords: "keyword1, keyword2, keyword3"
 share_image: /img/gray.png
 
 nav_USP_statement:
-  # 35 characters max:
   text: What Makes You Unique Goes Here
 
 hero:
-  hero_image_path: /img/gray.png
+  hero_image: /img/gray.png
   use_overlay: true
   overlay-intensity: 0.5
   header: Main Benefit Driven Headline Goes Here
@@ -17,9 +16,8 @@ hero:
   subheader_color: 'white'
   button_text: "Call to Action Button #1"
   button_link: https://www.google.com
-  open_new_tab: true
 
-5star_reviews:
+5star_review_excerpts:
   - text: "...a few words here from a Google or Facebook review from a happy customer."
   - text: "...a few words here from a Google or Facebook review from a happy customer."
   - text: "...a few words here from a Google or Facebook review from a happy customer."
@@ -27,51 +25,38 @@ hero:
 
 
 CTAS:
-  - title: Call to Action 1
-    url: /
-  - title: Call to Action 2
-    url: /
-  - title: Call to Action 3
-    url: /
+  - title: "Call to Action #2"
+    url: https://www.google.com
+  - title: "Call to Action #3"
+    url: https://www.google.com
   - title: YouTube Channel
-    url: /
-  - title: About us
-    url: /
+    url: https://www.google.com
+  - title: About Us
+    url: https://www.google.com
   - title: Reviews
-    url: /
+    url: https://www.google.com
 
 sidebar_CTAs:
-  - title: Call to Action 2
+  - title: "Call to Action #2 "
     image: /img/dummy-image.png
     text: You have under 160 characters to explain exactly what someone will get when they take your call to an action.
-    button-text: CTA Button 2
-    url: /
-  - title: Call to Action 3
+    button-text: "CTA Button #2"
+    url: https://www.google.com
+  - title: "Call to Action #3"
     image: /img/dummy-image.png
     text: You have under 160 characters to explain exactly what someone will get when they take your call to an action.
-    button-text: CTA Button 3
-    url: /
+    button-text: "CTA Button #3"
+    url: https://www.google.com
   
-show_custom_links: false
-custom_links:
-  - title:
-    url:
-
 client:
   name: John Doe
-  title: Real Estate Agent
-  license_number: 123456789
   brand: Company Name, Inc.
-  brokerage: Brokerage Name
   market: Test Market
   address: 123 Elm Street
   city: Omaha
   state: Nebraska
   zip: 68116
-  phone: 999-555-1234
-  phone_type: cell
-  phone2: 888-555-9876
-  phone2_type: work
+  phone: 1-999-555-1234
   email: info@companyname.com
   url: www.clientwebsite.com
 
@@ -90,18 +75,18 @@ blog:
     title_markdown: |
       **Want to work with us?** Here are some ways to get involved.
     items: 
-      - title: Call to Action 1
+      - title: "Call to Action #1"
         url: /
         markdown: |
-          **Call to Action 1** is where you can explain what someone will get when they click the call to action button.
-      - title: Call to Action 2
+          **Call to Action #1** is where you can explain what someone will get when they click the call to action button.
+      - title: "Call to Action #2"
         url: /
         markdown: |
-          **Call to Action 2** is where you can explain what someone will get when they click the call to action button.
-      - title: Call to Action 3
+          **Call to Action #2** is where you can explain what someone will get when they click the call to action button.
+      - title: "Call to Action #3"
         url: /
         markdown: |
-          **Call to Action 3** is where you can explain what someone will get when they click the call to action button.
+          **Call to Action #3** is where you can explain what someone will get when they click the call to action button.
 
 about:
   headline: Why Hire Us Headline 
@@ -134,11 +119,6 @@ testimonials:
     image: /img/16x9-placeholder.png
     image_link: https://www.google.com
 
-forms:
-  sitekey:
-
-mission: This is where you put the mission or purpose of your educational video blog.
-
 benefits_section:
   header: Main Benefit Statement Goes Here
   subheader: Repeat what makes you unique to customers here in this subheadline
@@ -159,13 +139,12 @@ podcast:
   author: '-- client name --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
   hero_dark_logo_path: /img/logo-dark.png
   hero_light_logo_path: /img/logo-light.png
   logo_width_number: 40
-  hero_text: -- market -- Real Estate Video Blog
-  hero_background_hex: '#999'
   post_cover: /img/cover.jpg
+  sidenav-logo-width: 200
+  footer-logo-width: 250
 
 site_colors:
   brand_color: '#0c0c0c'
@@ -173,9 +152,6 @@ site_colors:
   theme_text_color: 'black'
   main_body_color: 'white'
   main_body_text_color: '#212121'
-
-navbar_colors:
-  border_bottom:
 
 header_shadow:
   h_shadow: 0px
@@ -187,12 +163,24 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#ffffff'
-  button_background_color: transparent
-  button_text_color: '#525252'
-  secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
-  secondary_button_text_color: '#ffffff'
+
+  button_border_color: '#000'
+  button_background_color: '#000'
+  button_text_color: '#fff'
+
+  button_hover_border_color: '#333'
+  button_hover_background_color: '#333'
+  button_hover_text_color: '#e0e0e0'
+
+  light_button_border_color: '#000'
+  light_button_background_color: '#fff'
+  light_button_text_color: '#000'
+
+  light_button_hover_border_color: '#000'
+  light_button_hover_background_color: '#e0e0e0'
+  light_button_hover_text_color: '#000'
+
+  transition: "all 0.3s ease"
 
 OG:
   fb-admins: test-fb-admins
@@ -209,6 +197,14 @@ footer:
       url: https://www.instagram.com/
     - icon: /img/icons/tiktok.png
       url: https://www.tiktok.com/
+    - icon: /img/icons/twitter.png
+      url: https://twitter.com/
+    - icon: /img/icons/pinterest.png
+      url: https://www.pinterest.com/
+    - icon: /img/icons/gmb.png
+      url: https://www.google.com/business
+    - icon: /img/icons/whatsapp.png
+      url: https://www.whatsapp.com/
 
   policies:
     - title: Privacy Policy
@@ -217,7 +213,7 @@ footer:
       url: /test-url
 
 bottom_mobile_cta:
-  cta_1_text: Call to Action 1
+  cta_1_text: "Call to Action #1"
   cta_1_link: https://www.google.com
-  cta_2_text: Call to Action 2
+  cta_2_text: "Call to Action #2"
   cta_2_link: https://www.google.com
