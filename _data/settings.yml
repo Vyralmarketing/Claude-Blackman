@@ -5,7 +5,7 @@ description: >-
 keywords: keyword1, keyword2, keyword3
 share_image: /img/share-image.jpg
 nav_USP_statement:
-  text: What Makes You Unique Goes Here
+  text:
 hero:
   hero_image: /img/gray.png
   use_overlay: true
