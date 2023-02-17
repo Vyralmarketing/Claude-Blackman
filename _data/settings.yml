@@ -211,12 +211,12 @@ buttons:
 OG:
   fb-admins: test-fb-admins
 footer:
-  font_color: '#fff'
+  font_color: '#ffffff'
   socials:
     - icon: /img/icons/youtube.png
       url: https://www.youtube.com/
     - icon: /img/icons/facebook.png
-      url: https://www.facebook.com/
+      url: https://www.facebook.com/TidalRealtySanDiego
     - icon: /img/icons/linkedin.png
       url: https://www.linkedin.com/
     - icon: /img/icons/instagram.png
