@@ -181,10 +181,10 @@ images:
   sidenav-logo-width: 200
   footer-logo-width: 250
 site_colors:
-  brand_color: '#0c0c0c'
-  theme_color: '#999'
-  theme_text_color: black
-  main_body_color: white
+  brand_color: '#0012fd'
+  theme_color: '#999999'
+  theme_text_color: '#000000'
+  main_body_color: '#ffffff'
   main_body_text_color: '#212121'
 header_shadow:
   h_shadow: 0px
