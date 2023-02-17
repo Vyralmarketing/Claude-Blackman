@@ -122,7 +122,7 @@ about:
     **call to action \#2** to really go deeper, or **Call to action \#1** to get
     started on the solution to your problem.&nbsp;
 testimonials:
-  font_color: '#000'
+  font_color: '#000000'
   quotes:
     - markdown_quote: >
         ### "You'll put a client testimonial here of one of your best customers
@@ -181,7 +181,7 @@ images:
   sidenav-logo-width: 200
   footer-logo-width: 250
 site_colors:
-  brand_color: '#0012fd'
+  brand_color: '#001e42'
   theme_color: '#999999'
   theme_text_color: '#000000'
   main_body_color: '#ffffff'
