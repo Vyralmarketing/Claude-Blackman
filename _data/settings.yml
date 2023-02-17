@@ -32,20 +32,18 @@ hero:
       ...a few words here from a Google or Facebook review from a happy
       customer.
 sidebar_CTAs:
-  - title: 'Call to Action #2 '
+  - title: What's Your San Diego Home Worth?
     image: /img/dummy-image.png
     text: >-
-      You have under 160 characters to explain exactly what someone will get
-      when they take your call to an action.
-    button-text: 'CTA Button #2'
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    button-text: Free Home Value Report
     url: https://www.google.com
-  - title: 'Call to Action #3'
+  - title: Looking for a San DiegoHome?
     image: /img/dummy-image.png
-    text: >-
-      You have under 160 characters to explain exactly what someone will get
-      when they take your call to an action.
-    button-text: 'CTA Button #3'
-    url: https://www.google.com
+    text: Search the entire MLS for your San Diego home.
+    button-text: Search the MLS
+    url: https://www.authorized.company/team-properties/tidal-realty
 CTAS:
   - title: YouTube Channel
     url: https://www.google.com
