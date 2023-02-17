@@ -54,16 +54,16 @@ CTAS:
   - title: Reviews
     url: https://www.google.com
 client:
-  name: John Doe
-  brand: Company Name, Inc.
-  market: Test Market
-  address: 123 Elm Street
-  city: Omaha
-  state: Nebraska
-  zip: 68116
-  phone: 1-999-555-1234
-  email: info@companyname.com
-  url: www.clientwebsite.com
+  name: Claude Blackman
+  brand:
+  market: San Diego
+  address: 411 Camino del Rio S STE 300
+  city: San Diego
+  state: California
+  zip: 92108
+  phone: (619) 473-4944
+  email: claude@tidalre.com
+  url: https://tidalre.com/
 blog:
   CTA_main_box_markdown: >
     **Primary Call to Action Here.** There is where you can explain your primary
