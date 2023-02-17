@@ -3,7 +3,7 @@ description: >-
   This is where you put a short description of your website, between 150-160
   characters.
 keywords: keyword1, keyword2, keyword3
-share_image: /img/share-image.jpg
+share_image: /uploads/logo.jpg
 nav_USP_statement:
   text:
 hero:
@@ -95,11 +95,42 @@ blog:
           **Call to Action #3** is where you can explain what someone will get
           when they click the call to action button.
 about:
-  background_color: '#000'
+  background_color: '#000000'
   headline: Why Hire Us Headline
   subheadline: Explain what you do in 1 short sentence
   youtube_code: NpEaa2P7qZI
-  markdown: "Do you have this specific problem? Are you struggling to find a solution to your pain? Well, you're not alone - 57% of people in your situation feel the same way. In fact, you can expect a lot of bad things to happen to you if you don't solve this problem. You may find yourself dealing with this bad thing or that bad thing. I've heard stories even that this terrible, terrible thing has happened when the problem does not go unsolved. My name is Bob and I'm here to help you solve this problem. This is what makes my solution different from everyone else's. I have a story here where I can relate to your situation and it's why I do what I do. Here is a list of the specific things we'll do for you:\n1. Killer benefit goes here.\n2. Killer benefit goes here.\n3. Killer benefit goes here.\n4. Killer benefit goes here.\n5. Killer benefit goes here.\n\nThe whole goal is for you to live a happier and easier life with less stress and hassle and without any worries. Those are the benefits. But don't take my word for it - we have several happy customers who have the same problem you may have who hired us to solve and can vouch for our systems. In fact, we even offer a 100% money-back guarantee to remove all the risk - you won't lose any money. I invite you to take **Call to Action #3** to learn more, **call to action #2** to really go deeper, or **Call to action #1** to get started on the solution to your problem.\_\n"
+  markdown: >-
+    Do you have this specific problem? Are you struggling to find a solution to
+    your pain? Well, you're not alone - 57% of people in your situation feel the
+    same way. In fact, you can expect a lot of bad things to happen to you if
+    you don't solve this problem. You may find yourself dealing with this bad
+    thing or that bad thing. I've heard stories even that this terrible,
+    terrible thing has happened when the problem does not go unsolved. My name
+    is Bob and I'm here to help you solve this problem. This is what makes my
+    solution different from everyone else's. I have a story here where I can
+    relate to your situation and it's why I do what I do. Here is a list of the
+    specific things we'll do for you:
+
+
+    1. Killer benefit goes here.
+
+    2. Killer benefit goes here.
+
+    3. Killer benefit goes here.
+
+    4. Killer benefit goes here.
+
+    5. Killer benefit goes here.
+
+
+    The whole goal is for you to live a happier and easier life with less stress
+    and hassle and without any worries. Those are the benefits. But don't take
+    my word for it - we have several happy customers who have the same problem
+    you may have who hired us to solve and can vouch for our systems. In fact,
+    we even offer a 100% money-back guarantee to remove all the risk - you won't
+    lose any money. I invite you to take **Call to Action \#3** to learn more,
+    **call to action \#2** to really go deeper, or **Call to action \#1** to get
+    started on the solution to your problem.&nbsp;
 testimonials:
   font_color: '#000'
   quotes:
