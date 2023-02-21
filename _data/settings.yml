@@ -124,10 +124,13 @@ about:
 testimonials:
   font_color: '#000000'
   quotes:
-    - markdown_quote: >
-        ### "You'll put a client testimonial here of one of your best customers
-        that shares the problem they had before they hired you **and the
-        benefits of you solving it."**
+    - markdown_quote: >-
+        ### "Claude is amazing to work with. Any questions or needs I had, were
+        fulfilled in a timely manner. His expertise in VA Loans and the San
+        Diego area are superb any very helpful. 2 of my coworkers used him
+        following my recommendation and purchased their homes. 2 more of my
+        friends are beginning their home buying search with him now. I highly
+        recommend him to ANYONE and EVERYONE."**
       name: John Doe
       image: /img/16x9-placeholder.png
       image_link: https://www.google.com
