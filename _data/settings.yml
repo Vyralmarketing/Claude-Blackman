@@ -146,11 +146,15 @@ testimonials:
       name: Dane Floyd
       image: /img/16x9-placeholder.png
       image_link: https://www.google.com
-    - markdown_quote: >
-        ### "You'll put a client testimonial here of one of your best customers
-        that shares the problem they had before they hired you **and the
-        benefits of you solving it."**
-      name: John Doe
+    - markdown_quote: >-
+        ### "My experience with Claude was wonderful. He was always there for
+        assistance before, during and after purchasing my home. He provided me
+        with knowledge and was truly on my side during the whole process. he got
+        me exactly everything that I wanted and met all of my expectations in a
+        relator/broker. I highly recommend him to not only my close relatives
+        and friends but to anyone that is in search for a fantastic relator or
+        broker."**
+      name: Alyse Anderson
       image: /img/16x9-placeholder.png
       image_link: https://www.google.com
 benefits_section:
