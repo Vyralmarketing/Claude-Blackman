@@ -133,7 +133,7 @@ testimonials:
         recommend him to ANYONE and EVERYONE."
       name: John Doe
       image: /img/16x9-placeholder.png
-      image_link: https://www.google.com
+      image_link: https://www.zillow.com/profile/claude26/#reviews
     - markdown_quote: >-
         ### "First time homebuyer, shopped around for a good agent. Immediately
         after meeting Mr. Blackman my wife and I knew he would be the person and
@@ -145,7 +145,7 @@ testimonials:
         and his team to get the job done."
       name: Dane Floyd
       image: /img/16x9-placeholder.png
-      image_link: https://www.google.com
+      image_link: https://www.zillow.com/profile/claude26/#reviews
     - markdown_quote: >-
         ### "My experience with Claude was wonderful. He was always there for
         assistance before, during and after purchasing my home. He provided me
@@ -156,7 +156,7 @@ testimonials:
         broker."
       name: Alyse Anderson
       image: /img/16x9-placeholder.png
-      image_link: https://www.google.com
+      image_link: https://www.zillow.com/profile/claude26/#reviews
 benefits_section:
   header: Main Benefit Statement Goes Here
   subheader: Repeat what makes you unique to customers here in this subheadline
